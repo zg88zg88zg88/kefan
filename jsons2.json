@@ -1,8 +1,9 @@
-[{"id":"helloworld 1.1.0 bata5.3","why":"iu浏览器bata5.3发布
-修复 部分原生安卓机型和oppo机型浏览页面发灰的bug
-修复 某些情况下崩溃的bug
-修复 某些感知不强的bug
-进行 某些感知不强的优化
-特别注意！
-注意！
-注意！为了遵守安卓规范从此版本开始所有版本统一使用com.kefantx.iu为包名，所以之前为beta版的用户下载这个版本后会在主页再次产生一个iu浏览器，请前往设置-浏览设置-备份和同步  将之前的书签数据备份到新版本","version":"2110280","name":"https://www.coolapk.com/apk/com.kefantx.iu"}]
+[{"id":"helloworld 1.1.0 bata6","why":"iu浏览器1.1.0-beta6发布
+新增  全新下载管理器
+新增  无图模式
+新增  查看源码
+新增  访问电脑版
+修复   win11安卓子系统某些情况下不能正常使用的bug
+修复  某些导致崩溃的bug
+修复  某些情况下无法正常获取下载文件的文件名称的bug
+优化  部分ui界面","version":"2111200","name":"https://www.coolapk.com/apk/com.kefantx.iu"}]
